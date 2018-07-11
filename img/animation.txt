@@ -1,0 +1,14 @@
+jQuery(".wp-image-11").animate({
+        height: '300px'},1200);
+		
+		
+		
+
+.wp-image-11 {
+height:10px;
+width: auto;
+}
+
+.wp-image-10 {
+height:200px;
+}

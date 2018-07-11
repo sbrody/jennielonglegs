@@ -1,0 +1,59 @@
+//Jennie Long Legs css//
+
+#search {
+     display: none;
+}
+
+#header {
+     background-color: #36ef94;
+     font-family: "Amatic SC",cursive;
+     padding: 1rem;
+     text-align: center;
+  color:#1C3041
+}
+
+#container {
+     font-family: "Open Sans Condensed",sans-serif;
+}
+#header a {
+    color:#1C3041
+}
+
+#site-title {
+font-size:5em;
+line-height:1.2;
+}
+
+#site-title a {
+text-decoration:none;
+}
+
+#site-description {
+font-size:2em;
+  margin-bottom:1rem;
+}
+
+#menu {
+padding:1rem;
+}
+
+#menu ul li {
+display:inline;
+  margin:1rem;
+  font-size:1.5em;
+  border: solid 1px;
+  padding:.2rem;
+  border-radius:10%;
+}
+
+#menu ul li a {
+text-decoration:none;
+}
+
+#menu ul li:hover {
+border-color:#fff;
+}
+
+#mobile-nav-button {
+display:none;
+}
